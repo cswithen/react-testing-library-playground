@@ -20,5 +20,5 @@ Use command prompts to filter which files to target while running the tests.
 CLI tool startup
 
 ```
-npx rtl-book serve roles-notes.js 
+npx rtl-book serve ${fileName} 
 ```
