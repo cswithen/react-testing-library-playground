@@ -22,3 +22,8 @@ CLI tool startup
 ```
 npx rtl-book serve ${fileName} 
 ```
+
+## Codesplain
+
+using the script in the package.json to run the testing library AND a debugger keyword. navigate in chrome to about:inpsect to get a running debugger in the code!
+
